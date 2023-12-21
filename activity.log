@@ -557,3 +557,4 @@ Commit at 2023-12-12 17:22:14: Add support for new data formats
 Commit at 2023-12-12 18:07:14: Clean up code and remove deprecated functions
 Commit at 2023-12-14 09:33:12: Fix minor bug in data processing
 Commit at 2023-12-15 18:04:36: Enhance visualization tools
+Commit at 2023-12-21 11:52:33: Improve error handling and logging

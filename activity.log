@@ -561,3 +561,4 @@ Commit at 2023-12-21 11:52:33: Improve error handling and logging
 Commit at 2023-12-27 09:05:17: Refactor core logic for better performance
 Commit at 2023-12-27 11:30:59: Add support for new data formats
 Commit at 2023-12-28 10:39:04: Refactor core logic for better performance
+Commit at 2023-12-28 10:05:03: Clean up code and remove deprecated functions

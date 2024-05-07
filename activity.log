@@ -622,3 +622,4 @@ Commit at 2024-05-01 09:51:12: Optimize database queries
 Commit at 2024-05-03 14:36:29: Refactor core logic for better performance
 Commit at 2024-05-03 10:43:49: Fix security vulnerability in third-party library
 Commit at 2024-05-03 14:58:41: Update dependencies to latest versions
+Commit at 2024-05-07 17:09:38: Update README with more detailed instructions

@@ -651,3 +651,4 @@ Commit at 2024-06-19 18:14:26: Optimize memory usage in training loop
 Commit at 2024-06-19 11:26:57: Optimize database queries
 Commit at 2024-06-20 11:00:27: Clean up code and remove deprecated functions
 Commit at 2024-06-21 19:10:08: Update documentation and examples
+Commit at 2024-06-24 19:56:19: Improve error handling and logging

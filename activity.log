@@ -6,3 +6,4 @@ Commit at 2024-11-08 10:33:06: Add support for new data formats
 Commit at 2024-11-12 17:47:23: Update dependencies to latest versions
 Commit at 2024-11-13 11:08:04: Fix minor bug in data processing
 Commit at 2024-11-15 12:12:02: Improve error handling and logging
+Commit at 2024-11-15 13:26:59: Clean up code and remove deprecated functions

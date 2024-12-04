@@ -25,3 +25,4 @@ Commit at 2024-12-04 13:00:59: Implement new feature requested by users
 Commit at 2024-12-04 10:45:53: Refactor core logic for better performance
 Commit at 2024-12-04 14:00:29: Optimize memory usage in training loop
 Commit at 2024-12-04 17:45:30: Update README with more detailed instructions
+Commit at 2024-12-04 14:30:55: Add unit tests for new features

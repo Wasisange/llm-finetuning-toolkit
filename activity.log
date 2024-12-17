@@ -731,3 +731,4 @@ Commit at 2024-11-29 16:52:03: Optimize database queries
 Commit at 2024-12-02 13:48:01: Update README with more detailed instructions
 Commit at 2024-12-04 12:10:40: Implement new feature requested by users
 Commit at 2024-12-12 12:21:37: Improve error handling and logging
+Commit at 2024-12-17 11:53:07: Add support for new data formats

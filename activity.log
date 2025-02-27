@@ -75,3 +75,4 @@ Commit at 2025-02-24 14:45:30: Add unit tests for new features
 Commit at 2025-02-24 17:13:36: Optimize memory usage in training loop
 Commit at 2025-02-24 17:39:40: Improve model evaluation metrics
 Commit at 2025-02-27 09:12:20: Improve error handling and logging
+Commit at 2025-02-27 17:25:01: Add unit tests for new features

@@ -83,3 +83,4 @@ Commit at 2025-03-04 10:35:54: Update README with more detailed instructions
 Commit at 2025-03-06 09:21:50: Add unit tests for new features
 Commit at 2025-03-07 14:19:55: Optimize database queries
 Commit at 2025-03-07 11:39:40: Improve error handling and logging
+Commit at 2025-03-07 15:52:28: Clean up code and remove deprecated functions

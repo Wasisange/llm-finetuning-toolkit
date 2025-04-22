@@ -111,3 +111,4 @@ Commit at 2025-04-16 18:58:35: Fix minor bug in data processing
 Commit at 2025-04-17 10:05:29: Optimize memory usage in training loop
 Commit at 2025-04-17 09:37:46: Implement new feature requested by users
 Commit at 2025-04-18 13:43:26: Optimize memory usage in training loop
+Commit at 2025-04-22 10:17:04: Add unit tests for new features

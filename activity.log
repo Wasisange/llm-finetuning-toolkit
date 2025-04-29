@@ -119,3 +119,4 @@ Commit at 2025-04-23 13:13:47: Update dependencies to latest versions
 Commit at 2025-04-23 14:09:52: Update README with more detailed instructions
 Commit at 2025-04-25 11:56:12: Add unit tests for new features
 Commit at 2025-04-29 09:50:21: Optimize memory usage in training loop
+Commit at 2025-04-29 10:25:53: Add unit tests for new features

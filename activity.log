@@ -260,3 +260,4 @@ Commit at 2025-10-20 13:24:24: Fix security vulnerability in third-party library
 Commit at 2025-10-22 10:56:06: Fix minor bug in data processing
 Commit at 2025-10-22 10:57:43: Improve model evaluation metrics
 Commit at 2025-10-22 10:49:37: Refactor core logic for better performance
+Commit at 2025-10-22 15:09:24: Update README with more detailed instructions

@@ -266,3 +266,4 @@ Commit at 2025-10-24 12:10:27: Implement new feature requested by users
 Commit at 2025-10-24 13:55:29: Improve model evaluation metrics
 Commit at 2025-10-24 18:02:21: Refactor core logic for better performance
 Commit at 2025-10-24 18:48:59: Update README with more detailed instructions
+Commit at 2025-10-28 17:08:03: Clean up code and remove deprecated functions

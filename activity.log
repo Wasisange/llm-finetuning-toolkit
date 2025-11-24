@@ -285,3 +285,4 @@ Commit at 2025-11-18 10:13:13: Update README with more detailed instructions
 Commit at 2025-11-19 13:49:33: Update documentation and examples
 Commit at 2025-11-20 09:27:50: Improve error handling and logging
 Commit at 2025-11-21 12:21:09: Refactor core logic for better performance
+Commit at 2025-11-24 11:26:13: Optimize memory usage in training loop

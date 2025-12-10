@@ -297,3 +297,4 @@ Commit at 2025-12-08 14:01:58: Optimize database queries
 Commit at 2025-12-08 10:44:17: Update documentation and examples
 Commit at 2025-12-08 14:59:50: Optimize memory usage in training loop
 Commit at 2025-12-09 09:38:27: Implement new feature requested by users
+Commit at 2025-12-10 18:20:06: Clean up code and remove deprecated functions

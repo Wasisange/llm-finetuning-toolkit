@@ -335,3 +335,4 @@ Commit at 2026-01-27 12:22:25: Optimize memory usage in training loop
 Commit at 2026-01-30 17:35:41: Improve model evaluation metrics
 Commit at 2026-01-30 14:48:43: Add unit tests for new features
 Commit at 2026-01-30 15:32:24: Improve error handling and logging
+Commit at 2026-01-30 11:12:34: Clean up code and remove deprecated functions

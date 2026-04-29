@@ -797,3 +797,4 @@ Commit at 2026-04-20 15:02:18: Fix minor bug in data processing
 Commit at 2026-04-24 18:41:48: Update README with more detailed instructions
 Commit at 2026-04-28 09:16:19: Update dependencies to latest versions
 Commit at 2026-04-28 17:12:36: Update documentation and examples
+Commit at 2026-04-29 18:05:45: Add support for new data formats

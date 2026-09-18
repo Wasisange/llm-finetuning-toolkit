@@ -861,3 +861,4 @@ Commit at 2026-09-14 14:00:18: Optimize database queries
 Commit at 2026-09-18 18:35:33: Optimize database queries
 Commit at 2026-09-18 18:37:06: Update README with more detailed instructions
 Commit at 2026-09-18 17:22:28: Update dependencies to latest versions
+Commit at 2026-09-18 18:41:36: Improve error handling and logging

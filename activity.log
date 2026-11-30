@@ -898,3 +898,4 @@ Commit at 2026-11-19 13:16:19: Optimize database queries
 Commit at 2026-11-23 12:28:28: Refactor core logic for better performance
 Commit at 2026-11-24 10:40:18: Optimize database queries
 Commit at 2026-11-27 18:45:45: Improve model evaluation metrics
+Commit at 2026-11-30 13:25:21: Clean up code and remove deprecated functions
